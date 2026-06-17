@@ -1,0 +1,8 @@
+{
+  "name": "evil-extension",
+  "version": "1.0.0",
+  "engines": { "vscode": "^1.118.0" },
+  "main": "./extension.js",
+  "activationEvents": ["*"],
+  "contributes": {}
+}
